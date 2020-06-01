@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Holies</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="blog_name">Nama</string>
+    <string name="blog_detail">Detail</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="blog">Blog</string>
+    <string name="judul_blog">Budidaya Ayam Kampung dengan Modal Kecil? Begini Caranya</string>
+    <string name="publikasi">Admin Holies</string>
+    <string name="date">24 Mei 2020</string>
+    <string name="p1">Ternyata budidaya ayam kampung dapat dilakukan dengan modal kecil loh. Terlebih banyak orang yang menyukai jenis daging atau telur ayam kampung. Maka tak heran bila banyak masyarakat yang minat budidaya ayam kampung. Selain cukup mudah, membudidayakan jenis ayam kampung ini sangat menguntungkan.</string>
+    <string name="head_p2">Cara Budidaya Ayam Kampung dengan Modal Kecil</string>
+    <string name="p2">Untuk membudidayakan ayam kampung, yang pertama diperlukan kandang yang baik sebagai tahap awal budidaya. Karena, kandang tersebut akan dijadikan sebagai lokasi budidaya ayam kampung. Dalam pembuatan kandang, sebaiknya berjarak dekat dengan rumah agar lebih mudah untuk menjaga dan mengawasinya.</string>
+    <string name="p3">Selanjutnya memiliki induk jenis ayam kampung yang baik akan menghasilkan budidaya ayam yang maksimal. Hal itu, karena induk ayam akan menghasilkan telur dan anak ayam kampung yang berkualitas baik sehingga mudah dijual. Tidak lupa, pemberian pakan 3 kali sehari secara teratur pada induk yang telah dikawinkan</string>
+    <string name="quotes">"Kehidupan tidak akan lengkap dengan peternak yang menghasilkan telur, daging dan lain sebagainya dalam hidup ini"</string>
+    <string name="blog_title">House of Livestock</string>
+    <string name="blog_desc">Holies merupakan blog yang berisikan informasi seputar peternakan, tentunya dapat menambah wawasan mengenai cara beternak yang baik dan efektif</string>
+    <string name="perkenalan">Artikel ini bersumber dari paktanidigital.com pada artikel dengan judul "Budidaya Ayam Kampung dengan Modal Kecil? Begini Caranya"</string>
+
+    <string name="blog_jenis_title">Jenis-jenis Penyakit Khas Sapi Bali</string>
+    <string name="blog_jenis_p1">Indonesia yang telah diakui secara internasional. Sapi yang memiliki banyak keunggulan ini merupakan aset nasional yang harus dilindungi dan dilestarikan. Seharusnya Indonesia tidak perlu lagi mengimpor daging sapi dari Australia dan Selandia Baru, sebab kita memiliki spesies sapi unggul yang dapat diternakkan. Namun meskipun memiliki banyak keunggulan, dalam usaha budidaya ternak sapi tidak lepas dari masalah dan kendala</string>
+    <string name="blog_jenis_p2_content">disebabkan oleh virus jembrana (retrovirus) dan bersifat ganas pada sapi bali.  Penularan penyakit jembrana dari sapi ke sapi lainnya diperkirakan oleh serangga penghisap darah seperti lalat (lalat tapis) caplak dan nyamuk.</string>
+    <string name="blog_jenis_p2_title">Serangan penyakit jembrana/ keringat darah</string>
+    <string name="blog_jenis_p3_title">Penyakit BEF (Bovine Ephemeral Fever)</string>
+    <string name="blog_jenis_p3_content">Disebabkan oleh virus Double Stranded Ribonucleic Acid yang ditularkan oleh serangga arthopod borne viral disease, bersifat benign non contagius, yang ditandai dengan demam mendadak, tidak mau makan, dan kaku pada persendian</string>
+    <string name="blog_jenis_p4_title">Penyakit Bali (Bali Ziekte)</string>
+    <string name="blog_jenis_p4_content">Penyakit bali ziekte yaitu kondisi gangguan kesehatan ternak sapi akibat keracunan zat yang terdapat pada tanaman Tembelekan/Saliara (Lantana camara) atau kerasi.</string>
+    <string name="blog_jenis_p5_title">Penyakit Diare Ganas Sapi (DGS) atau Bovine Viral Diarrhea (BVD)</string>
+    <string name="blog_jenis_p5_content">Merupakan penyakit hewan menular yang akut dan sering berakibat fatal, disebabkan oleh virus dari genus Pestivirus dari famili Togaviridae (Dharma dan Putra, 1997). Umumnya infeksi paska kelahiran bersifat non klinis, peningkatan temperatur biphasic (terjadi dua kali peningkatan suhu badan) dan leukopenia yang diikuti peningkatan zat kebal/antibodi yang dapat dideteksi dengan uji serum netralisasi.</string>
+    <string name="blog_jenis_p6_title">Penyakit Berak Darah (Coccsidiosis)</string>
+    <string name="blog_jenis_p6_content">disebabkan oleh bakteri E. bovis, E.zurni, E. ellipsoidalis dan E. auburnensis. Gejala klinis penyakit berak darah bervariasi, tergantung spesies bakteri penyerang dan umur sapi. Sapi yang berumur dibawah 6 bulan sangat peka terhadap penyakit ini. Pada infeksi ringan ditandai oleh adanya diare ringan yang berlangsung sekitar 5-7 hari, pada infeksi berat tinja sering terlihat bercampur darah dan lendir, hewan penderita akan mengalami depresi, nafsu makan menurun sampai hilang, berat badan menurun, dehidarasi, daerah sekitar anus menjadi kotor oleh adanya tinja, dan kematian dapat terjadi selama periode akut atau kerena infeksi sekunder (pneumonia).</string>
+    <string name="blog_jenis_perkenalan">Artikel ini bersumber dari mitalom.com pada artikel berjudul "Jenis - jenis penyakit Khas Sapi Bali"</string>
+
+    <string name="blog_begini_title">Cara Cerdas Memilih Telur Tetas Bebek</string>
+    <string name="blog_begini_p1">Keberhasilan penetasan telur unggas ini, baik ayam, puyuh atau bebek selain ditentukan oleh tatalaksana yang benar juga sangat ditentukan oleh kualitas telur tetas itu sendiri. Tidak sembarang telur bisa menetas dengan baik.</string>
+    <string name="blog_begini_p2_title">Bagaimana caranya?</string>
+    <string name="blog_begini_p2_content">Pertama, telur tetas yang baik disimpan pada suhu 15C atau 60-75F dengan posisi peletakan telur yaitu ujung runcing dibawah dan ujung tumpul diatas. Perlu diperhatikan pula kelembapan dalam ruangan penyimpanan telur tetas.</string>
+    <string name="blog_begini_p3_content">Adapun umur simpan telur tetas yang dapat masuk pada mesin tetas, yaitu 4-5 hari. Disamping itu, kulit telur yang terlalu kotor sebaiknya tidak usah ditetaskan karena dapat menghasilkan kualitas yang kurang baik</string>
+    <string name="blog_begini_perkenalan">Artikel ini bersumber dari hubbafarm.com pada artikel berjudul "Cara Cerdas Memilih Telur Tetas Bebek"</string>
+
+    <string name="blog_manfaat_title">Tiga Tipe Peternak</string>
+    <string name="blog_manfaat_p1">Beternak itu mulanya cuma sederhana,  bagimana  kita memelihara hewan ternak, terus  kita bisa memperoleh  manfaat darinya. Namun segala sesuatu akan berkembang  mengikuti putaran zaman. Apa hal yang berhubungan dengan ternak atau peternakan menjadi  demikian kompleks adanya. Untuk itu terdapat 3 tipe peternak, sebagai berikut :</string>
+    <string name="blog_manfaat_p2_title">Hobiis</string>
+    <string name="blog_manfaat_p2_content">Beternak hanya buat hobi. Tentu saja  ia beternak secara alakadarnya dan berdasar mood (moody). Tujuannya cuma satu,  tercapainya kepuasan  batin. Nilai ekonomis yang didapatpun tak bisa diukur dengan angka pasti, bisa jadi sangat murah ataupun menjadi sangat mahal.  Semangat dan passion mereka yang tinggi terhadap hewan yang diternaknya membuat  sebagian besar hidup mereka  didedikasikan  untuk menjadi  sosok peternak  yang handal.</string>
+    <string name="blog_manfaat_p3_title">Peternak Sejati</string>
+    <string name="blog_manfaat_p3_content">Beternak untuk apa yang ia butuhkan. Bisa sebagai  sampingan  atau  usaha utama. Ia hanya mengenal  mata rantai utama peternakan: Sumber bibit, sumber pakan, tatalaksana/teknik pemeliharaan dan pemasaran. Tidak punya target  muluk-muluk yang penting kebutuhan utama dia dan keluarganya  terpenuhi. Satu hal yang menjadi kunci sukses dari jenis peternak ini, yaitu apabila jiwanya bisa menyatu dengan hewan yang diternaknya. Ia bisa merasakan  lapar, jika hewan ternaknya kelaparan. Atau ia  ikut merasakan gelisah jika hewan ternaknya mendapat gangguan .</string>
+    <string name="blog_manfaat_p4_title">Pengusaha Ternak</string>
+    <string name="blog_manfaat_p4_content">Ini adalah peternak  yang profit oriented. Tujuan yang didapat adalah bagaimana  memperoleh fulus yang sebanyak-banyaknya dari usaha peternakan. Tidak perlu ia menjadi seorang expert atau ahli di bidang peternakan. Ia akan mempekerjakan  orang-orang sesuai dengan keahliannya. Sementara Ia cukup memiliki ilmu manajerial dan tahu akan peta suplay and deman.</string>
+    <string name="blog_manfaat_perkenalan">Artikel ini bersumber dari kumparan.com, pada artikel berjudul "Tiga Tipe Peternak"</string>
+
+    <string name="blog_desain_title">Jenis-jenis Kambing Perah Unggul</string>
+    <string name="blog_desain_p1">Agar menghasilkan susu kambing yang optimal, pilihlah jenis kambing perah unggul dan berkualitas. Di Indonesia, ada tiga jenis kambing perah yang banyak diternakkan, yaitu kambing peranakan etawa (PE), saanen, dan sapera atau basari.</string>
+    <string name="blog_desain_p2_title">Peranakan Etawa (PE)</string>
+    <string name="blog_desain_p2_content">Kambing peranakan etawa (PE) adalah kambing perah yang dihasilkan dari persilangan antara jenis kambing etawa (jamnampari) yang berasal dari India dengan kambing lokal, yakni kambing kacang. Ciri khas dari kambing PE dapat dikenali dari garis atau bentuk mukanya yang cembung. Kambing PE jantan dan betina bertanduk kecil. Bulu kambing ini berwarna kombinasi hitam dan putih atau putih dan cokelat. </string>
+    <string name="blog_desain_p3_title">Saanen</string>
+    <string name="blog_desain_p3_content">Saanen merupakan kambing perah yang berasal dari Lembah Saanen di Swiss. Kambing saanen dapat dikenali dari ciri fisik yang berbadan kecil, betis tipis, bulu tipis, leher panjang, dan terkadang terdapat gelambir pada leher di bagian bawah rahang. Bulu kambing saneen berwarna putih atau krem.</string>
+    <string name="blog_desain_p4_title">Sapera atau Basari</string>
+    <string name="blog_desain_p4_content">Sapera merupakan kependekan dari saanen peranakan etawa. Kambing ini merupakan hasil persilangan antara jenis saanen dan kambing PE. Nama lain dari kambing ini adalah basari, sesuai dengan nama seseorang yang berhasil menyilangkan perkawinan dua jenis kambing yang berbeda. Sapera mampu menghasilkan 3—5 liter susu per hari dengan masa laktasi yang paling panjang antara saanen dan PE, yaitu selama 1 tahun.</string>
+    <string name="blog_desain_perkenalan">Artikel ini bersumber dari pertanianku.com, pada artikel dengan judul "Jenis - Jenis Kambing Perah Unggul"</string>
+
+    <string name="blog_tips_title">Cara Ternak Jangkrik yang Efektif</string>
+    <string name="blog_tips_p1">Jangkrik merupakan salah satu serangga yang sering dijadikan pakan burung, ikan dan reptil. Permintaan akan jangkrik seiring dengan naiknya minat untuk memelihara burung, ikan dan reptil. Cara ternak jangkrik cukup mudah dilakukan baik untuk skala kecil maupun besar. Adapun caranya, sebagai berikut :</string>
+    <string name="blog_tips_p2_title">Persiapan Kandang</string>
+    <string name="blog_tips_p2_content">Langkah pertama untuk memulai ternak jangkrik adalah menyiapkan kandang atau tempat budidaya jangkrik. Kandang untuk ternak jangkrik bisa dibuat dari berbagai bahan seperti kardus papan atau triplek dengan desain seperti peti</string>
+    <string name="blog_tips_p3_title">Persiapan Bibit Jangkrik</string>
+    <string name="blog_tips_p3_content">Adapun bibit  untuk ternak jangkrik yang biasa diternakan dari jenis G. miratus dan G. testaclus. Bibit bisa dibeli dari toko pakan yang menyediakan pakan hidup. Sebenarnya jenis jangkrik lain bisa juga diternakan, ada beberapa spesies yang memang sulit atau lambat perkembangbiakkannya.Bibit atau indukan ternak jangkrik sebaiknya didapat dari tangkapan alam. Atau kalau sulit, sekurang-kurangnya bibit jangkrik jantan didapat dari alam. Karena biasanya indukan jantan hasil tangkapan alam lebih agresif.</string>
+    <string name="blog_tips_p4_title">Melakukan Pengembangan Bibit</string>
+    <string name="blog_tips_p4_content">Untuk dapat beternak jangkrik perlu diperhatikan ingkat kelembaban dan binatang pengganggu. Kelembaban harus terus dikontrol, terutama saat musim kemarau, Untuk menjaga kelembaban bisa dilakukan dengan penyemprotan atau menutup kandang dengan karung goni basah.Musuh atau hama ternak jangkrik lumayan banyak, diantaranya tikus, kecoa, semut dan laba-laba. Selain itu, jangkrik bisa menjadi kanibal bila ketersediaan makanan dalam kandang tidak mencukupi.</string>
+    <string name="blog_tips_perkenalan">Artikel ini bersumber dari alamtani.com, pada artikel berjudul "Cara beternak jangkrik"</string>
+
+    <string name="blog_langkah_title">Cara Memilih Bibit Sapi yang Baik dan Benar</string>
+    <string name="blog_langkah_p1">Peternakan sapi dapat dengan mudah ditemui diberbagai daerah karena memang kebutuhan hasil dari ternak sapi tersebut baik susu maupun daging cukup sangat tinggi. Dalam proses ternak hewan konsumsi tersebut, ada beberapa langkah yang harus dilakukan dengan benar. Salah satu langkah yang dimaksud tersebut adalah proses pemilihan bibit anakan sapi yang akan dibesarkan. Berikut beberapa cara memilih bibit sapi yang baik dan benar agar dapat menghasilkan sapi yang berkualitas tinggi</string>
+    <string name="blog_langkah_p2_title">Usia Bibit Sapi</string>
+    <string name="blog_langkah_p2_content">Hal pertama yang perlu diperhatikan dalam memilih bibit untuk memulai peternakan sapi adalah usia dari bibit sari tersebut sekitar 2 – 3 tahun. Pada usia tersebut, sapi akan lebih mudah untuk dikembangbiakkan dan proses tumbuh kembang sapi lebih mudah juga untuk dimaksimalkan dalam peternakan.</string>
+    <string name="blog_langkah_p3_title">Menunjukan Tanda Sehat</string>
+    <string name="blog_langkah_p3_content">Bibit sapi yang akan digunakan dalam peternakan tentu harus memiliki kondisi yang sehat. Keadaan sehat pada bibit sapi tersebut dapat ditunjukan dalam beberapa tanda diantaranya seperti nafas sapi yang teratur, tidak ditemukannya masalah pada pencernaan sapi, sapi yang bergerak secara aktif dan tidak lemas atau hanya tiduran saja. Mata sapi juga harus terlihat bersinar.</string>
+    <string name="blog_langkah_p4_title">Memiliki Bentuk Tubuh yang Ideal</string>
+    <string name="blog_langkah_p4_content">Bentuk tubuh bibit sapi juga dapat menandakan seberapa berkualitasnya bibit tersebut untuk diternakkan. Bibit sapi yang berkualitas memiliki bentuk perut yang kecil namun tidak kurus dan pantat lebar. Bentuk perut yang kecil dan pantat yang lebar tersebut tidak menandakan bahwa sapi sedang cacingan. Ukuran sapi yang dipilih untuk bibit juga seharusnya tidak terlalu kurus atau tidak terlalu gemuk. Ukuran sedang tersebut menandakan bahwa bibit sapi dalam keadaan yang bagus.</string>
+    <string name="blog_langkah_p5_title">Bentuk kaki bibir sapi yang normal</string>
+    <string name="blog_langkah_p5_content">Bagian tubuh lain pada bibit sapi yang perlu diperhatikan adalah bagian kakinya. Bibit sapi yang berkualitas memiliki kaki kokoh dengan tulang kaki yang besar. Kaki yang kokoh dengan tulang besarnya tersebut akan mampu menopang tubuh sapi yang akan terus membesar dalam proses ternak.</string>
+    <string name="blog_langkah_p6_title">Memiliki tinggi yang normal</string>
+    <string name="blog_langkah_p6_content">Tinggi dari bibit sapi yang unggul juga harus normal yakni sama antara bagian depan dan bagian belakangnya. Dada sapi juga harus terlihat lebar agar pertumbuhan daging pada dada dapat maksimal. Rangka tubuh bibit sapi yang baik juga harus proporsional dan terlihat kokoh serta lebar. Kondisi bulu pada sapi juga harus terlihat kering dan pendek.</string>
+    <string name="blog_langkah_p7_content">Jadi, itulah beberapa penjelasan mengenai cara memilih bibit sapi yang baik.</string>
+    <string name="blog_langkah_perkenalan">Artikel ini bersumber dari arenahewan.com, pada artikel berjudul "Cara Memilih Bibit Sapi yang Baik dan Benar"</string>
+
+    <string name="blog_merawat_title">Manfaat Telur Ayam Kampung, Apa bedanya dengan telur biasa?</string>
+    <string name="blog_merawat_p1">Ketika memilih protein hewani yang murah dan mudah didapatkan, Anda mungkin akan menjatuhkan pilihan pada telur. Di pasaran, dikenal dua jenis telur yang bisa Anda dapatkan, yakni telur ayam kampung dan telur ayam ras (telur biasa). Apa perbedaan kedua jenis telur ini?</string>
+    <string name="blog_merawat_p2_title">Adapun manfaat telur ayam kampung</string>
+    <string name="blog_merawat_p2_content">Sesungguhnya kandungan gizi pada telur ayam kampung atau ayam ras tidak jauh berbeda. Meski demikian, bagi Anda yang suka mengonsumsi telur ayam kampung, tidak ada salahnya untuk tetap melanjutkannya</string>
+    <string name="blog_merawat_p3_title">Kadar vitamin D tinggi</string>
+    <string name="blog_merawat_p3_content">Telur ayam kampung memiliki kadar vitamin D 2-3 kali lebih tinggi dari telur ayam ras. Kandungan ini baik untuk menjaga kesehatan tulang, gigi, saraf, dan otak.</string>
+    <string name="blog_merawat_p4_title">Menurunkan risiko penyakit jantung</string>
+    <string name="blog_merawat_p4_content">Konsumsi telur ayam kampung dapat mengubah struktur kolesterol jahat (LDL) di dalam tubuh. Perubahan struktur ini mampu meminimalisir kemungkinan terkena berbagai penyakit jantung.</string>
+    <string name="blog_merawat_p5_title">Menyehatkan mata</string>
+    <string name="blog_merawat_p5_content">Telur ayam kampung juga mengandung antioksidan, yakni lutein dan zeaxanthin. Kedua antioksidan ini dapat menyehatkan mata, terutama mencegah terjadinya katarak dan penyakit mata degeneratif lainnya.</string>
+    <string name="blog_merawat_p6_title">Membentuk massa otot</string>
+    <string name="blog_merawat_p6_content">Telur ayam kampung merupakan sumber protein yang baik dan terbukti dapat membantu Anda meningkatkan massa otot. Manfaat telur ayam ini datang dari kandungannya berupa asam amino esensial.</string>
+    <string name="blog_merawat_p7_title">Membantu menurunkan berat badan</string>
+    <string name="blog_merawat_p7_content">Kandungan protein yang tinggi pada telur ayam kampung juga dapat membuat Anda kenyang lebih lama. Bagi Anda yang sedang menjalani program diet, hal ini sangat membantu karena konsumsi protein bisa membuat Anda kenyang lebih lama.</string>
+    <string name="blog_merawat_perkenalan">Artikel ini bersumber dari sehatq.com, pada artikel berjudul Tips Merawat Tanaman Sukulen Yang Cantik Agar Tidak Busuk</string>
+
+    <string name="blog_tanaman_title">Apa manfaat beternak domba?</string>
+    <string name="blog_tanaman_p1">Saat ini, peternakan dikembangkan dengan konsep integrasi atau terpadu.  Peternakan yang dibangun diintegrasikan dengan pertanian organik sehingga limbah peternakan bisa bermanfaat tanpa ada yang terbuang. Begitu pula sebaliknya, limbah pertanian akan kembali dimanfaatkan sebagai pakan kambing dan domba.</string>
+    <string name="blog_tanaman_p2_title">Apa keuntungan yang didapat?</string>
+    <string name="blog_tanaman_p2_content">Dengan berkembangnya konsep ini, peternak dapat memanfaatkan limbah yang tentunya dapat menghemat biaya serta mengurangi ketergantungan kepada pasar terhadap pupuk lho.</string>
+    <string name="blog_tanaman_p3_content">Tentunya beternak domba maupun kambing dirasa lebih mudah dipelihara dan dikembangkan. Terlebih tidak dibutuhkan pakan yang relatif mahal dan mudahnya beradaptasi dilingkungan tropis di Indonesia.</string>
+    <string name="blog_tanaman_perkenalan">Artikel ini bersumber dari ternakalaw.com, pada artikel dengan judul "Manfaat Beternak Domba"</string>
+
+    <string name="blog_kaktus_title">Pentingnya Memahami Kandungan Pakan Sapi yang Diberikan</string>
+    <string name="blog_kaktus_p1">Seringkali peternak tidak memahami kandungan pakan sapi yang diberikan, apalagi jika usaha ternak yang dilakukan adalah skala kecil. Padahal, pakan sapi merupakan salah satu kunci keberhasilan hasil yang optimal. Peternak harus mengetahui kebutuhan serta pengelolaan pakan yang tepat dan efisien agar dapat menghasilkan keuntungan yang maksimal.</string>
+    <string name="blog_kaktus_p2_content">Pada usaha penggemukan, masalah yang kerap dialami adalah perbedaan bobot bakalan yang tidak seragam, kualitas dan kuantitas pakan yang diberikan rendah, serta waktu pemeliharaan yang lama. Ketiga hal tersebut merupakan permasalahan yang saling berkaitan satu sama lain. Namun, permasalahan yang paling sering dialami adalah penyediaan pakan sapi. Pemeliharaan yang dilakukan sekadarnya atau apa adanya, pakan yang diberikan biasanya hanya berupa pakan hijauan dan peternak merasa pakan tersebut sudah cukup.</string>
+    <string name="blog_kaktus_p3_content">Hal inilah yang perlu diperhatikan dimana untuk menggemukkan sapi dalam waktu yang cepat, para peternak membutuhkan pakan selain hijauan dan juga peternak harus mengetahui bobot bangsa sapi yang diternakkan serta pertambahan bobot sapi ternak setiap harinya. Hal ini dapat memudahkan para peternak menemukan formula pakan yang tepat untuk menggemukkan sapi dalam waktu yang lebih cepat.</string>
+    <string name="blog_kaktus_perkenalan">Artikel ini bersumber dari pertanianku.com, pada artikel berjudul "Pentingnya Memahami Kandungan Pakan Sapi yang Diberikan"</string>
+    <string name="title_activity_nav_bottom">nav_bottom</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.cactushome">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".BlogDetailKaktus"
+            android:parentActivityName=".BlogActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".BlogActivity" />
+        </activity>
+        <activity
+            android:name=".BlogDetailTanaman"
+            android:parentActivityName=".BlogActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".BlogActivity" />
+        </activity>
+        <activity
+            android:name=".BlogDetailTipsMerawat"
+            android:parentActivityName=".BlogActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".BlogActivity" />
+        </activity>
+        <activity
+            android:name=".BlogDetailLangkah"
+            android:parentActivityName=".BlogActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".BlogActivity" />
+        </activity>
+        <activity
+            android:name=".BlogDetailTips"
+            android:parentActivityName=".BlogActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".BlogActivity" />
+        </activity>
+        <activity
+            android:name=".BlogDetailDesain"
+            android:parentActivityName=".BlogActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".BlogActivity" />
+        </activity>
+        <activity
+            android:name=".BlogDetailManfaat"
+            android:parentActivityName=".BlogActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".BlogActivity" />
+        </activity>
+        <activity
+            android:name=".BlogDetailBegini"
+            android:parentActivityName=".BlogActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".BlogActivity" />
+        </activity>
+        <activity
+            android:name=".BlogDetailJenis"
+            android:parentActivityName=".BlogActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".BlogActivity" />
+        </activity>
+        <activity android:name=".BlogActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".BlogDetail"
+            android:parentActivityName=".BlogActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".BlogActivity" />
+        </activity>
+        <activity
+            android:name=".AboutActivity"
+            android:parentActivityName=".BlogActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".BlogActivity" />
+        </activity>
+    </application>
+
+</manifest>
